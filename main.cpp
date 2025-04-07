@@ -14,6 +14,7 @@ int main()
 
     std::vector<int> sorted_list;
    
+    int amount = num_list.size();
     for (int i = 0; i < amount; i++)
     {
         int small = 0;
